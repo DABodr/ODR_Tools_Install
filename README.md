@@ -11,6 +11,7 @@ Auto-install script of ODR tools for RaspberryPi ARM with Buster, Jessie & Stret
 - cd ODR_Tools_Install
 - chmod +x ./Install.sh
 - ./Install.sh
+  
 It will make a "dab" directory in /home/$USER/ , install all dependency for odr-mmbtools and all tools for run simply a DAB+ multiplex:
    *   ODR-DabMux (DAB/DAB+ multiplexer) 
    *   ODR-AudioEnc (DAB/DAB+ audio encoder)
