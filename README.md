@@ -1,4 +1,4 @@
-* Auto-install script of ODR tools for RaspberryPi ARM with Buster, Jessie & Stretch distribution and Debian systems.
+Auto-install script of ODR tools for RaspberryPi ARM with Buster, Jessie & Stretch distribution and Debian systems.
 
 
  More infos on www.opendigitalradio.org for ODR tools development.               
